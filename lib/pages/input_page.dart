@@ -19,7 +19,7 @@ class _InputPageState extends State<InputPage> {
         centerTitle: true,
         title: Text(
           'BMI CALCULATOR',
-          style: TextStyle(color: kBottomContainerColor),
+          style: TextStyle(color: kActiveCardColor, fontSize: 30),
         ),
       ),
       body: Column(

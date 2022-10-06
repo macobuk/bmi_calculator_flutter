@@ -17,6 +17,7 @@ class _BottomWidgetState extends State<BottomWidget> {
       margin: EdgeInsets.only(top: 10),
       width: double.infinity,
       height: kBottomContainerHeight,
+      child: TextButton(onPressed: null, child: Text('Calculate your BMI now')),
     );
   }
 }
