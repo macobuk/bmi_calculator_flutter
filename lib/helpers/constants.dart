@@ -26,3 +26,6 @@ const kNumberTextStyle = TextStyle(
   fontWeight: FontWeight.w900,
   color: kIconColor,
 );
+
+const kResultNumberStyle =
+    TextStyle(fontSize: 100, color: kIconColor, fontWeight: FontWeight.bold);
