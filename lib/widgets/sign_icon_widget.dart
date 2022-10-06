@@ -1,4 +1,4 @@
-import 'package:bmi_calculator/constants.dart';
+import 'package:bmi_calculator/helpers/constants.dart';
 import 'package:flutter/material.dart';
 
 const customColor = Color.fromARGB(255, 122, 202, 2);
